@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/depiluk/static/css/main.4fed78f0.css",
+    "main.js": "/depiluk/static/js/main.d59e2183.js",
+    "static/js/453.6d9d503a.chunk.js": "/depiluk/static/js/453.6d9d503a.chunk.js",
+    "index.html": "/depiluk/index.html",
+    "main.4fed78f0.css.map": "/depiluk/static/css/main.4fed78f0.css.map",
+    "main.d59e2183.js.map": "/depiluk/static/js/main.d59e2183.js.map",
+    "453.6d9d503a.chunk.js.map": "/depiluk/static/js/453.6d9d503a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fed78f0.css",
+    "static/js/main.d59e2183.js"
+  ]
+}
