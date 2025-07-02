@@ -71,7 +71,7 @@ const App = () => {
             {/* LOGO */}
             <div className="relative w-56 h-56 mx-auto">
               <img
-                src="public/logo-depiluq.jpg"
+                src={`${process.env.PUBLIC_URL}/logo-depiluq.jpg`}
                 alt="Logo"
                 className="w-full h-full rounded-full border-4 border-white shadow-2xl animate-pulse"
               />
